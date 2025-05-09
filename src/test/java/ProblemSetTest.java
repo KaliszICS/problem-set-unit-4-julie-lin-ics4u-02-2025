@@ -2,9 +2,9 @@
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 import java.io.*;
+import java.util.Arrays;
 
 public class ProblemSetTest {
-
    //Create your tests here if you want any
 
    /*
@@ -12,10 +12,10 @@ public class ProblemSetTest {
    //Example Test
    
    @Test
-   public void exampleTest()
-   {
+   public void exampleTest() {
       Cat cat = new Cat();
       assertEquals("whiskers", cat.getName());
    }
    */
+
 }
